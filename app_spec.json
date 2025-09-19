@@ -1,0 +1,1 @@
+{"name": "35-you-are-to-build-a-mortgage-sc-firebase-193235", "spec": {"port": 8000, "containers": [{"image": "", "name": "35-you-are-to-build-a-mortgage-sc-firebase-193235", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
